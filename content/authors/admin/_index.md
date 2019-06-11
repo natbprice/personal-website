@@ -1,8 +1,8 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include statistical modeling, machine learning, and
+  optimization.
 education:
   courses:
   - course: Joint PhD in Mechanical Engineering
@@ -20,7 +20,7 @@ interests:
 - Machine learning
 - Optimization
 - Web-based data applications
-name: Nathaniel (Nat) Price
+name: Nathaniel Price
 organizations:
 - name: University of Nebraska-Lincoln
   url: ""
@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have worked on complex problems for companies in mechanical, aerospace, materials, and biomedical engineering. In my current role, I am building a web-based application for customer-base analysis and developing statistical models of customer recruitment, retention, and attrition. I am also collaborating on developing model-free methods for identifying change points in noisy, high-dimensional ecological time series data. 
+I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, marketing, and natural resource fields. In my current role, I am building a web-based application for customer-base analysis and developing statistical models of customer recruitment, retention, and attrition.
