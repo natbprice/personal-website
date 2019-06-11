@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: An R package for interactive, network-based visualizations of overlapping sets.
 tags:
-- Demo
+- Visualization
 title: radsets
 ---
