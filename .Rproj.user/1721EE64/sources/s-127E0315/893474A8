@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560204833322.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "893474A8",
+    "lastKnownWriteTime" : 1560204951,
+    "last_content_update" : 1560204951666,
+    "path" : "~/Documents/R_Projects/natbprice/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "58,42",
+        "scrollLine" : "29"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
