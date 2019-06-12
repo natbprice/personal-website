@@ -3,7 +3,7 @@ abstract: Space vehicle design is a complex process involving numerous disciplin
 authors:
 - Mathieu Balesdent
 - Loïc Brevault
-- Nathaniel B. Price
+- admin
 - Sébastien Defoort
 - Rodolphe Le Riche
 - Nam-Ho Kim
@@ -13,7 +13,7 @@ date: "2016-01-01T00:00:00Z"
 doi: "10.1007/978-3-319-41508-6_1"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: **Loïc Brevault**'
   focal_point: ""
   preview_only: false
 publication: Space Engineering Modeling and Optimization with Case Studies
@@ -24,7 +24,8 @@ publishDate: "2016-01-01T00:00:00Z"
 summary: Space vehicle design optimization considering multidisciplinary couplings
   and mixed uncertainty in the design process
 tags:
-- Source Themes
+- Optimization
+- Aerospace Engineering
 title: Advanced Space Vehicle Design Taking into Account Multidisciplinary Couplings and Mixed Epistemic/Aleatory Uncertainties
 url_pdf: https://hal.archives-ouvertes.fr/hal-01475842/document
 ---

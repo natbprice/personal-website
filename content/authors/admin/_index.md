@@ -29,6 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: building
+  icon_pack: fas
+  link: http://snr.unl.edu/aboutus/who/people/faculty-member.asp?pid=2366
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DataSciEng
@@ -41,6 +44,15 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://git.unl.edu/nprice3
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6450-617X
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Nathaniel_Price
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/natbprice/
 superuser: true
 user_groups:
 - Researchers
