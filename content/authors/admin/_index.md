@@ -38,6 +38,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/natbprice
+- icon: gitlab
+  icon_pack: fab
+  link: https://git.unl.edu/nprice3
 superuser: true
 user_groups:
 - Researchers
