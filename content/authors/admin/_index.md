@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, marketing, and natural resource fields. In my current role, I am building a web-based application for customer-base analysis and developing statistical models of customer recruitment, retention, and attrition.
+I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, and natural resource fields. In my current role, I am building a web-based application and statistical models for customer-base analysis and collaborating on developing model-free methods for identifying change points in high-dimensional, noisy, time-series data.
