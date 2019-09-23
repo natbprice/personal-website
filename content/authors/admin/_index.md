@@ -24,7 +24,7 @@ name: Nathaniel Price
 organizations:
 - name: University of Nebraska-Lincoln
   url: ""
-role: Data Scientist
+role: Data Scientist (Remote)
 social:
 - icon: envelope
   icon_pack: fas

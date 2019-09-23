@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "natbprice@gmail.com"
 #phone = "888 888 88 88"
-address = "401 South Hardin Hall, 3310 Holdrege St, Lincoln NE, 68583-0974"
+address = "Lakewood, Colorado"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -85,11 +85,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 2
-map_api_key = ""
-latitude = "40.829055"
-longitude = "-96.671728"
-zoom = 15
+# map = 2
+# map_api_key = ""
+# latitude = "40.829055"
+# longitude = "-96.671728"
+# zoom = 15
 
 ############################
 ## Plugins                ##

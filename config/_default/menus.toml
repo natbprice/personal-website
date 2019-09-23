@@ -42,5 +42,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "Resume"
-    url = "https://github.com/natbprice/cv/raw/master/resume_projects/nprice_resume_proj.pdf"
+    url = "https://github.com/natbprice/cv/raw/master/resume_data_science/nprice_resume_datasci.pdf"
     weight = 80
