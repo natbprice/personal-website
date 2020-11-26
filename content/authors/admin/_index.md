@@ -22,28 +22,22 @@ interests:
 - Web-based data applications
 name: Nathaniel Price
 organizations:
-- name: University of Nebraska-Lincoln
+- name: ICF
   url: ""
-role: Data Scientist (Remote)
+role: Senior Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: building
   icon_pack: fas
-  link: http://snr.unl.edu/aboutus/who/people/faculty-member.asp?pid=2366
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/DataSciEng
+  link: https://www.icf.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=rXaKU0EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/natbprice
-- icon: gitlab
-  icon_pack: fab
-  link: https://git.unl.edu/nprice3
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6450-617X
@@ -59,4 +53,4 @@ user_groups:
 - Visitors
 ---
 
-I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, and natural resource fields. In my current role, I am building a web-based application and statistical models for customer-base analysis and collaborating on developing model-free methods for identifying change points in high-dimensional, noisy, time-series data.
+I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, natural resource, and commercial energy fields.
