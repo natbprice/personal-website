@@ -2,3 +2,5 @@
 	path = public
 	url = https://github.com/natbprice/natbprice.github.io.git
 	branch = master
+[submodule "./public"]
+	url = https://github.com/natbprice/natbprice.github.io.git
