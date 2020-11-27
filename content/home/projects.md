@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Numerical Methods"
     tag = "Numerical Methods"
+    
+  [[content.filter_button]]
+    name = "Web-based Apps"
+    tag = "Web-based Apps"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
