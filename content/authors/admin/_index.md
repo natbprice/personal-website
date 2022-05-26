@@ -24,7 +24,7 @@ name: Nathaniel Price
 organizations:
 - name: ICF
   url: ""
-role: Senior Data Scientist
+role: Lead Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
